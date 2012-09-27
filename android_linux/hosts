@@ -18,7 +18,7 @@
 74.125.237.105 docs.google.com
 74.125.128.83 mail.google.com
 173.194.38.149 chatenabled.mail.google.com
-173.194.38.137 talkgadget.google.com
+74.125.135.113 talkgadget.google.com
 74.125.128.188 mtalk.google.com
 ##G+Sync
 74.125.71.193 m.google.com
@@ -220,11 +220,11 @@
 184.169.84.33 si4.twimg.com
 
 #foursquare
-107.21.43.99 api.foursquare.com
-107.23.6.101 foursquare.com
-107.23.26.203 www.foursquare.com
-107.21.43.99 developer.foursquare.com
-204.246.165.62 dnv9my2eseobd.cloudfront.net
+107.23.52.49 api.foursquare.com
+107.23.52.49 www.foursquare.com
+107.23.52.49 developer.foursquare.com
+107.21.26.195 foursquare.com
+216.137.43.221 dnv9my2eseobd.cloudfront.net
 
 #dropbox
 199.47.217.179 dropbox.com
