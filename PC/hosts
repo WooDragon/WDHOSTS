@@ -220,11 +220,11 @@
 184.169.84.33 si4.twimg.com
 
 #foursquare
-107.23.76.172 api.foursquare.com
-107.23.76.172 www.foursquare.com
-107.23.76.172 developer.foursquare.com
-107.21.26.195 foursquare.com
-216.137.43.221 dnv9my2eseobd.cloudfront.net
+107.23.81.170 api.foursquare.com
+107.23.81.170 foursquare.com
+107.23.81.170 developer.foursquare.com
+107.23.81.170 www.foursquare.com
+205.251.215.5 dnv9my2eseobd.cloudfront.net
 
 #dropbox
 199.47.217.179 dropbox.com
@@ -238,20 +238,20 @@
 #23.21.125.148 instagram.com
 ##50.17.241.161 www.instagram.com
 #23.21.166.65 instagr.am
-205.251.215.153 d36xtkk24g8jdx.cloudfront.net
-205.251.215.153 images.instagram.com
-205.251.215.153 distilleryimage0.instagram.com
-205.251.215.153 distilleryimage1.instagram.com
-205.251.215.153 distilleryimage2.instagram.com
-205.251.215.153 distilleryimage3.instagram.com
-205.251.215.153 distilleryimage4.instagram.com
-205.251.215.153 distilleryimage5.instagram.com
-205.251.215.153 distilleryimage6.instagram.com
-205.251.215.153 distilleryimage7.instagram.com
-205.251.215.153 distilleryimage8.instagram.com
-205.251.215.153 distilleryimage9.instagram.com
-205.251.215.153 distilleryimage10.instagram.com
-205.251.215.153 distilleryimage11.instagram.com
+205.251.215.5 d36xtkk24g8jdx.cloudfront.net
+205.251.215.5 images.instagram.com
+205.251.215.5 distilleryimage0.instagram.com
+205.251.215.5 distilleryimage1.instagram.com
+205.251.215.5 distilleryimage2.instagram.com
+205.251.215.5 distilleryimage3.instagram.com
+205.251.215.5 distilleryimage4.instagram.com
+205.251.215.5 distilleryimage5.instagram.com
+205.251.215.5 distilleryimage6.instagram.com
+205.251.215.5 distilleryimage7.instagram.com
+205.251.215.5 distilleryimage8.instagram.com
+205.251.215.5 distilleryimage9.instagram.com
+205.251.215.5 distilleryimage10.instagram.com
+205.251.215.5 distilleryimage11.instagram.com
 
 #whatsapp
 #www.whatsapp.com
@@ -399,8 +399,9 @@
 204.154.94.81 www.evernote.com
 208.94.0.61 yfrog.com
 208.94.0.38 desmond.yfrog.com
-#220.181.92.25 talk.m.renren.com
-#220.181.181.234 api.m.renren.com
+220.181.92.25 talk.m.renren.com
+220.181.181.234 api.m.renren.com
+74.125.128.141 wdttapi.appspot.com
 
 #Docs
 ##Drive
