@@ -20,6 +20,7 @@
 173.194.38.149 chatenabled.mail.google.com
 74.125.135.113 talkgadget.google.com
 74.125.128.188 mtalk.google.com
+173.194.77.82 wd-hosts.googlecode.com
 ##G+Sync
 74.125.128.193 m.google.com
 74.125.135.193 m.google.com
@@ -90,7 +91,6 @@
 173.194.38.144 plus.google.com
 173.194.38.144 calendar.google.com
 173.194.38.144 profiles.google.com
-173.194.38.144 translate.google.com
 173.194.38.144 encrypted.google.com
 173.194.38.144 code.google.com
 173.194.38.144 developers.google.com
@@ -104,7 +104,6 @@
 173.194.38.144 dl-ssl.google.com
 173.194.38.144 dl.google.com
 173.194.38.144 earth.google.com
-173.194.38.144 translate.google.cn
 173.194.38.144 sites.google.com
 173.194.38.144 groups.google.com
 173.194.38.144 support.google.com
@@ -113,23 +112,31 @@
 173.194.38.144 images.google.com
 173.194.38.144 market.android.com
 173.194.38.144 play.google.com
-173.194.38.144 lh1.ggpht.com
-173.194.38.144 lh2.ggpht.com
-173.194.38.144 lh3.ggpht.com
-173.194.38.144 lh4.ggpht.com
-173.194.38.144 lh5.ggpht.com
-173.194.38.144 lh6.ggpht.com
-#74.125.71.139 goo.gl
-173.194.38.144 goo.gl
 173.194.38.144 g.co
 173.194.38.144 plusone.google.com
 173.194.38.144 encrypted-tbn3.google.com
 173.194.38.144 encrypted-tbn2.google.com
 173.194.38.144 encrypted-tbn1.google.com
 173.194.38.144 encrypted-tbn0.google.com
-173.194.77.82 wd-hosts.googlecode.com
 
-#74.125.235.111 news.google.com
+#beijing
+203.208.47.67 translate.google.com
+203.208.47.67 translate.google.cn
+203.208.47.67 lh1.ggpht.com
+203.208.47.67 lh2.ggpht.com
+203.208.47.67 lh3.ggpht.com
+203.208.47.67 lh4.ggpht.com
+203.208.47.67 lh5.ggpht.com
+203.208.47.67 lh6.ggpht.com
+203.208.47.67 goo.gl
+#youtube
+203.208.47.67 s.ytimg.com
+203.208.47.67 i1.ytimg.com
+203.208.47.67 i2.ytimg.com
+203.208.47.67 i3.ytimg.com
+203.208.47.67 i4.ytimg.com
+#beijing
+
 173.194.38.144 news.google.com
 173.194.38.144 ditu.google.com
 173.194.38.144 mt0.google.com
@@ -164,13 +171,6 @@
 173.194.38.144 chrome.google.com
 #173.194.38.169 chrome.google.com
 #173.194.38.144 clients-china.l.google.com
-
-#youtube
-173.194.38.144 s.ytimg.com
-173.194.38.144 i1.ytimg.com
-173.194.38.144 i2.ytimg.com
-173.194.38.144 i3.ytimg.com
-173.194.38.144 i4.ytimg.com
 
 #twitter
 199.16.156.11 t.co
