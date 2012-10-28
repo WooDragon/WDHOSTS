@@ -102,7 +102,6 @@
 #173.194.38.144 maps.google.com
 173.194.38.144 tools.google.com
 173.194.38.144 dl-ssl.google.com
-173.194.38.144 dl.google.com
 173.194.38.144 earth.google.com
 173.194.38.144 sites.google.com
 173.194.38.144 groups.google.com
@@ -129,6 +128,8 @@
 203.208.47.67 lh5.ggpht.com
 203.208.47.67 lh6.ggpht.com
 203.208.47.67 goo.gl
+203.208.47.67 dl.google.com
+
 #youtube
 203.208.47.67 s.ytimg.com
 203.208.47.67 i1.ytimg.com
