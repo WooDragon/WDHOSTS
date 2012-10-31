@@ -192,16 +192,16 @@
 199.59.148.212 oauth.twitter.com
 199.59.148.212 pic.twitter.com
 199.59.149.137 dev.twitter.com
-184.169.84.33 cdn.api.twitter.com
+23.10.175.144 cdn.api.twitter.com
 184.169.84.33 failover-cdn.api.twitter.com
 184.169.84.33 failover-urls.api.twitter.com
 184.169.84.33 preview-dev.cdn.twitter.com
 184.169.84.33 preview-stage.cdn.twitter.com
-184.169.84.33 preview.cdn.twitter.com
+23.10.175.144 preview.cdn.twitter.com
 184.169.84.33 urls.api.twitter.com
 184.169.84.33 widgets.platform.twitter.com
 184.169.84.33 widgets.twimg.com
-184.169.84.33 platform.twitter.com
+23.10.175.144 platform.twitter.com
 184.169.84.33 platform0.twitter.com
 184.169.84.33 platform1.twitter.com
 184.169.84.33 platform2.twitter.com
@@ -209,18 +209,18 @@
 184.169.84.33 a3.twimg.com
 184.169.84.33 a2.twimg.com
 184.169.84.33 a1.twimg.com
-184.169.84.33 a0.twimg.com
+203.186.47.155 a0.twimg.com
 184.169.84.33 a3.twimg.com
 184.169.84.33 a2.twimg.com
 184.169.84.33 a1.twimg.com
-184.169.84.33 a0.twimg.com
-184.169.84.33 p.twimg.com
-184.169.84.33 pbs.twimg.com
-184.169.84.33 si0.twimg.com
-184.169.84.33 si1.twimg.com
-184.169.84.33 si2.twimg.com
-184.169.84.33 si3.twimg.com
-184.169.84.33 si4.twimg.com
+23.10.175.144 p.twimg.com
+23.10.175.144 pbs.twimg.com
+23.10.175.144 o.twimg.com
+23.10.175.144 si0.twimg.com
+23.10.175.144 si1.twimg.com
+23.10.175.144 si2.twimg.com
+23.10.175.144 si3.twimg.com
+23.10.175.144 si4.twimg.com
 
 #foursquare
 107.23.85.132 api.foursquare.com
