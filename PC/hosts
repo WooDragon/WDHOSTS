@@ -119,25 +119,25 @@
 74.125.236.166 encrypted-tbn2.google.com
 74.125.236.166 encrypted-tbn1.google.com
 74.125.236.166 encrypted-tbn0.google.com
+74.125.236.166 translate.google.com
 
 #beijing
-203.208.47.88 translate.google.com
-203.208.47.88 translate.google.cn
-203.208.47.88 lh1.ggpht.com
-203.208.47.88 lh2.ggpht.com
-203.208.47.88 lh3.ggpht.com
-203.208.47.88 lh4.ggpht.com
-203.208.47.88 lh5.ggpht.com
-203.208.47.88 lh6.ggpht.com
-203.208.47.88 goo.gl
-203.208.47.88 dl.google.com
+203.208.47.133 translate.google.cn
+203.208.47.133 lh1.ggpht.com
+203.208.47.133 lh2.ggpht.com
+203.208.47.133 lh3.ggpht.com
+203.208.47.133 lh4.ggpht.com
+203.208.47.133 lh5.ggpht.com
+203.208.47.133 lh6.ggpht.com
+203.208.47.133 goo.gl
+203.208.47.133 dl.google.com
 
 #youtube
-203.208.47.88 s.ytimg.com
-203.208.47.88 i1.ytimg.com
-203.208.47.88 i2.ytimg.com
-203.208.47.88 i3.ytimg.com
-203.208.47.88 i4.ytimg.com
+203.208.47.133 s.ytimg.com
+203.208.47.133 i1.ytimg.com
+203.208.47.133 i2.ytimg.com
+203.208.47.133 i3.ytimg.com
+203.208.47.133 i4.ytimg.com
 #beijing
 
 74.125.236.166 news.google.com
