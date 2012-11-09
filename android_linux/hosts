@@ -5,11 +5,11 @@
 
 #google
 74.125.135.138 android.clients.google.com
-74.125.128.101 mobilemaps.clients.google.com
 74.125.135.138 mobilemaps.clients.google.com
 74.125.235.103 mobilemaps.clients.google.com
 74.125.227.105 mobilemaps.clients.google.com
 74.125.235.164 mobilemaps.clients.google.com
+74.125.128.101 mobilemaps.clients.google.com
 74.125.31.84 accounts.google.com
 173.194.38.128 docs.google.com
 74.125.71.100 docs.google.com
@@ -47,7 +47,7 @@
 #74.125.71.101 android.l.google.com
 #74.125.235.3 android-china.l.google.com
 74.125.236.166 chrometophone.appspot.com
-#74.125.31.95 www.googleapis.com
+173.194.72.95 www.googleapis.com
 74.125.128.138 appengine.google.com
 #74.125.236.166 lh1.googleusercontent.com
 74.125.128.132 lh1.googleusercontent.com
@@ -133,12 +133,6 @@
 203.208.46.201 goo.gl
 203.208.46.201 dl.google.com
 
-#youtube
-203.208.46.201 s.ytimg.com
-203.208.46.201 i1.ytimg.com
-203.208.46.201 i2.ytimg.com
-203.208.46.201 i3.ytimg.com
-203.208.46.201 i4.ytimg.com
 #beijing
 
 #74.125.235.111 news.google.com
@@ -410,42 +404,12 @@
 
 #Docs
 ##Drive
-#74.125.71.102 clients1.google.com
-#74.125.71.138 clients1.google.com
-#74.125.71.139 clients1.google.com
-#74.125.71.101 clients1.google.com
-#74.125.71.100 clients1.google.com
-#74.125.71.113 clients1.google.com
-#74.125.71.102 clients2.google.com
-#74.125.71.138 clients2.google.com
-#74.125.71.139 clients2.google.com
-#74.125.71.101 clients2.google.com
-#74.125.71.100 clients2.google.com
-#74.125.71.113 clients2.google.com
-#74.125.71.102 clients3.google.com
-#74.125.71.138 clients3.google.com
-#74.125.71.139 clients3.google.com
-#74.125.71.101 clients3.google.com
-#74.125.71.100 clients3.google.com
-#74.125.71.113 clients3.google.com
-#74.125.71.102 clients4.google.com
-#74.125.71.138 clients4.google.com
-#74.125.71.139 clients4.google.com
-#74.125.71.101 clients4.google.com
-#74.125.71.100 clients4.google.com
-#74.125.71.113 clients4.google.com
-#74.125.71.102 clients5.google.com
-#74.125.71.138 clients5.google.com
-#74.125.71.139 clients5.google.com
-#74.125.71.101 clients5.google.com
-#74.125.71.100 clients5.google.com
-#74.125.71.113 clients5.google.com
-#74.125.71.102 clients6.google.com
-#74.125.71.138 clients6.google.com
-#74.125.71.139 clients6.google.com
-#74.125.71.101 clients6.google.com
-#74.125.71.100 clients6.google.com
-#74.125.71.113 clients6.google.com
+74.125.236.166 clients1.google.com
+74.125.236.166 clients2.google.com
+74.125.236.166 clients3.google.com
+74.125.236.166 clients4.google.com
+74.125.236.166 clients5.google.com
+74.125.236.166 clients6.google.com
 ##Drive
 74.125.236.166 0.docs.google.com
 74.125.236.166 1.docs.google.com

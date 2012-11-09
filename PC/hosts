@@ -5,11 +5,11 @@
 
 #google
 74.125.135.138 android.clients.google.com
-74.125.128.101 mobilemaps.clients.google.com
 74.125.135.138 mobilemaps.clients.google.com
 74.125.235.103 mobilemaps.clients.google.com
 74.125.227.105 mobilemaps.clients.google.com
 74.125.235.164 mobilemaps.clients.google.com
+74.125.128.101 mobilemaps.clients.google.com
 74.125.31.84 accounts.google.com
 173.194.38.128 docs.google.com
 74.125.71.100 docs.google.com
@@ -47,7 +47,7 @@
 #74.125.71.101 android.l.google.com
 #74.125.235.3 android-china.l.google.com
 74.125.236.166 chrometophone.appspot.com
-74.125.31.95 www.googleapis.com
+173.194.72.95 www.googleapis.com
 74.125.128.138 appengine.google.com
 #74.125.236.166 lh1.googleusercontent.com
 74.125.128.132 lh1.googleusercontent.com
@@ -133,12 +133,6 @@
 203.208.46.201 goo.gl
 203.208.46.201 dl.google.com
 
-#youtube
-203.208.46.201 s.ytimg.com
-203.208.46.201 i1.ytimg.com
-203.208.46.201 i2.ytimg.com
-203.208.46.201 i3.ytimg.com
-203.208.46.201 i4.ytimg.com
 #beijing
 
 74.125.236.166 news.google.com
