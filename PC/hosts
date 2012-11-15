@@ -81,10 +81,10 @@
 74.125.128.132 s2.googleusercontent.com
 74.125.128.132 s1.googleusercontent.com
 74.125.128.132 feedback.googleusercontent.com
-74.125.128.132 www.gstatic.com
-74.125.128.132 ssl.gstatic.com
-74.125.128.132 maps.gstatic.com
-74.125.128.132 csi.gstatic.com
+74.125.236.166 www.gstatic.com
+74.125.236.166 ssl.gstatic.com
+74.125.236.166 maps.gstatic.com
+74.125.236.166 csi.gstatic.com
 ##wifi/cell_id geo API
 74.125.236.166 www.google.com
 ##wifi/cell_id geo API
