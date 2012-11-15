@@ -11,11 +11,6 @@
 74.125.235.164 mobilemaps.clients.google.com
 74.125.128.101 mobilemaps.clients.google.com
 74.125.31.84 accounts.google.com
-173.194.38.128 docs.google.com
-74.125.71.100 docs.google.com
-74.125.235.104 docs.google.com
-74.125.237.96 docs.google.com
-74.125.237.105 docs.google.com
 74.125.235.149 mail.google.com
 74.125.235.149 gmail.google.com
 74.125.235.149 chatenabled.mail.google.com
@@ -30,16 +25,23 @@
 74.125.31.193 m.google.com
 209.85.175.193 m.google.com
 #G+Sync
+
 ##GDrive
-173.194.38.136 drive.google.com
-74.125.128.102 drive.google.com
-74.125.235.104 drive.google.com
-74.125.237.96 drive.google.com
-74.125.237.105 drive.google.com
-209.85.175.189 0.drive.google.com
+74.125.235.9 drive.google.com
+74.125.235.1 drive.google.com
+74.125.235.132 drive.google.com
+74.125.235.5 drive.google.com
+74.125.235.4 drive.google.com
+74.125.235.9 docs.google.com
+74.125.235.1 docs.google.com
+74.125.235.132 docs.google.com
+74.125.235.5 docs.google.com
+74.125.235.4 docs.google.com
+74.125.128.189 0.drive.google.com
 173.194.72.117 upload.drive.google.com
 173.194.72.117 upload.docs.google.com
 #GDrive -> #Docs
+
 74.125.128.132 feedback.googleusercontent.com
 173.194.38.143 www.gstatic.com
 173.194.38.143 ssl.gstatic.com
@@ -77,6 +79,7 @@
 74.125.128.132 www-oz-opensocial.googleusercontent.com
 74.125.128.132 www-pwa-opensocial.googleusercontent.com
 74.125.128.132 desekmmkncsf9nhvc4e90qe7tl9q9s81-a-calendar-opensocial.googleusercontent.com
+74.125.128.132 themes.googleusercontent.com
 74.125.128.132 s6.googleusercontent.com
 74.125.128.132 s5.googleusercontent.com
 74.125.128.132 s4.googleusercontent.com
