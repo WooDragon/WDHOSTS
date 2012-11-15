@@ -37,7 +37,6 @@
 74.125.235.132 docs.google.com
 74.125.235.5 docs.google.com
 74.125.235.4 docs.google.com
-74.125.128.189 0.drive.google.com
 173.194.72.117 upload.drive.google.com
 173.194.72.117 upload.docs.google.com
 #GDrive -> #Docs
@@ -140,6 +139,7 @@
 203.208.37.30 lh6.ggpht.com
 203.208.37.30 goo.gl
 203.208.37.30 dl.google.com
+203.208.37.30 0.drive.google.com
 #beijing
 
 74.125.236.166 news.google.com
