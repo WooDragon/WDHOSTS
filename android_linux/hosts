@@ -77,7 +77,7 @@
 74.125.128.132 images-lso-opensocial.googleusercontent.com
 74.125.128.132 www-oz-opensocial.googleusercontent.com
 74.125.128.132 www-pwa-opensocial.googleusercontent.com
-74.125.128.132 desekmmkncsf9nhvc4e90qe7tl9q9s81-a-calendar-opensocial.googleusercontent.com
+74.125.128.132 spreadsheets-opensocial.googleusercontent.com
 74.125.128.132 themes.googleusercontent.com
 74.125.128.132 s6.googleusercontent.com
 74.125.128.132 s5.googleusercontent.com
@@ -477,7 +477,30 @@
 74.125.236.166 57.docs.google.com
 74.125.236.166 58.docs.google.com
 74.125.236.166 59.docs.google.com
+74.125.128.132 doc-0c-7c-docs.googleusercontent.com
+74.125.128.132 doc-08-7c-docs.googleusercontent.com
+74.125.128.132 doc-00-7o-docs.googleusercontent.com
+74.125.128.132 doc-08-7o-docs.googleusercontent.com
+74.125.128.132 doc-0c-7o-docs.googleusercontent.com
+74.125.128.132 doc-0g-7o-docs.googleusercontent.com
+74.125.128.132 doc-0s-7o-docs.googleusercontent.com
+74.125.128.132 doc-10-7o-docs.googleusercontent.com
+74.125.128.132 doc-14-7o-docs.googleusercontent.com
 #Docs
+
+74.125.128.132 desekmmkncsf9nhvc4e90qe7tl9q9s81-a-calendar-opensocial.googleusercontent.com
+74.125.128.132 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
+74.125.128.132 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
+74.125.128.132 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
+74.125.128.132 ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar.opensocial.googleusercontent.com
+74.125.128.132 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
+74.125.128.132 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
+74.125.128.132 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
+74.125.128.132 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
+74.125.128.132 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
+74.125.128.132 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
+74.125.128.132 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+74.125.128.132 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
 
 #google music
 74.125.236.166 music.google.com
