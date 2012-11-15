@@ -17,6 +17,7 @@
 74.125.237.96 docs.google.com
 74.125.237.105 docs.google.com
 74.125.235.149 mail.google.com
+74.125.235.149 gmail.google.com
 74.125.235.149 chatenabled.mail.google.com
 74.125.135.125 talk.google.com
 74.125.135.113 talkgadget.google.com
@@ -127,16 +128,15 @@
 74.125.236.166 translate.google.com
 
 #beijing
-203.208.46.201 translate.google.cn
-203.208.46.201 lh1.ggpht.com
-203.208.46.201 lh2.ggpht.com
-203.208.46.201 lh3.ggpht.com
-203.208.46.201 lh4.ggpht.com
-203.208.46.201 lh5.ggpht.com
-203.208.46.201 lh6.ggpht.com
-203.208.46.201 goo.gl
-203.208.46.201 dl.google.com
-
+203.208.37.30 translate.google.cn
+203.208.37.30 lh1.ggpht.com
+203.208.37.30 lh2.ggpht.com
+203.208.37.30 lh3.ggpht.com
+203.208.37.30 lh4.ggpht.com
+203.208.37.30 lh5.ggpht.com
+203.208.37.30 lh6.ggpht.com
+203.208.37.30 goo.gl
+203.208.37.30 dl.google.com
 #beijing
 
 74.125.236.166 news.google.com
