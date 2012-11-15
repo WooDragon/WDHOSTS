@@ -40,11 +40,6 @@
 173.194.72.117 upload.docs.google.com
 #GDrive -> #Docs
 
-74.125.128.132 feedback.googleusercontent.com
-173.194.38.143 www.gstatic.com
-173.194.38.143 ssl.gstatic.com
-173.194.38.143 maps.gstatic.com
-74.125.236.166 csi.gstatic.com
 #74.125.71.101 android.l.google.com
 #74.125.235.3 android-china.l.google.com
 74.125.236.166 chrometophone.appspot.com
@@ -84,6 +79,11 @@
 74.125.128.132 s3.googleusercontent.com
 74.125.128.132 s2.googleusercontent.com
 74.125.128.132 s1.googleusercontent.com
+74.125.128.132 feedback.googleusercontent.com
+74.125.128.132 www.gstatic.com
+74.125.128.132 ssl.gstatic.com
+74.125.128.132 maps.gstatic.com
+74.125.128.132 csi.gstatic.com
 ##wifi/cell_id geo API
 74.125.236.166 www.google.com
 ##wifi/cell_id geo API
@@ -504,6 +504,7 @@
 
 #google music
 74.125.236.166 music.google.com
+74.125.128.132 music-onebox.googleusercontent.com
 74.125.128.132 t.doc-0-0-sj.sj.googleusercontent.com
 
 74.125.128.132 v1.cache1.c.doc-0-0-sj.sj.googleusercontent.com
