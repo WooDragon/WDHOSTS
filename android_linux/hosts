@@ -4,8 +4,8 @@
 ::1 localhost
 
 #google
-74.125.135.138 android.clients.google.com
-74.125.135.138 mobilemaps.clients.google.com
+74.125.235.14 android.clients.google.com
+74.125.235.14 mobilemaps.clients.google.com
 74.125.235.103 mobilemaps.clients.google.com
 74.125.227.105 mobilemaps.clients.google.com
 74.125.235.164 mobilemaps.clients.google.com
@@ -230,9 +230,9 @@
 
 #foursquare
 68.232.42.58 api.foursquare.com
-68.232.42.58 foursquare.com
-68.232.42.58 developer.foursquare.com
-68.232.42.58 www.foursquare.com
+107.23.13.193 foursquare.com
+107.23.13.193 www.foursquare.com
+107.23.124.88 developer.foursquare.com
 205.251.215.214 dnv9my2eseobd.cloudfront.net
 
 #dropbox
