@@ -18,12 +18,12 @@
 74.125.135.113 talkgadget.google.com
 74.125.128.188 mtalk.google.com
 173.194.38.169 picasaweb.google.com
-173.194.77.82 wd-hosts.googlecode.com
+74.125.31.82 wd-hosts.googlecode.com
 ##G+Sync
+74.125.31.193 m.google.com
 74.125.128.193 m.google.com
 74.125.135.193 m.google.com
 74.125.71.193 m.google.com
-74.125.31.193 m.google.com
 209.85.175.193 m.google.com
 #G+Sync
 
@@ -416,12 +416,12 @@
 
 #Docs
 ##Drive
-74.125.31.120 clients1.google.com
-74.125.31.120 clients2.google.com
-74.125.31.120 clients3.google.com
-74.125.31.120 clients4.google.com
-74.125.31.120 clients5.google.com
-74.125.31.120 clients6.google.com
+173.194.38.134 clients1.google.com
+173.194.38.134 clients2.google.com
+173.194.38.134 clients3.google.com
+173.194.38.134 clients4.google.com
+173.194.38.134 clients5.google.com
+173.194.38.134 clients6.google.com
 ##Drive
 74.125.31.120 0.docs.google.com
 74.125.31.120 1.docs.google.com
