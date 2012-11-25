@@ -45,44 +45,8 @@
 #74.125.71.101 android.l.google.com
 #74.125.235.3 android-china.l.google.com
 74.125.31.120 chrometophone.appspot.com
-74.125.31.95 www.googleapis.com
+173.194.71.95 www.googleapis.com
 74.125.128.138 appengine.google.com
-#74.125.31.120 lh1.googleusercontent.com
-74.125.31.132 lh1.googleusercontent.com
-74.125.31.132 lh2.googleusercontent.com
-74.125.31.132 lh3.googleusercontent.com
-74.125.31.132 lh4.googleusercontent.com
-74.125.31.132 lh5.googleusercontent.com
-74.125.31.132 lh6.googleusercontent.com
-74.125.31.132 static.googleusercontent.com
-#74.125.31.120 googlehosted.l.google.com
-#74.125.31.132 googlehosted.l.googleusercontent.com
-74.125.31.132 images1-focus-opensocial.googleusercontent.com
-74.125.31.132 images2-focus-opensocial.googleusercontent.com
-74.125.31.132 images3-focus-opensocial.googleusercontent.com
-74.125.31.132 images4-focus-opensocial.googleusercontent.com
-74.125.31.132 images5-focus-opensocial.googleusercontent.com
-74.125.31.132 images6-focus-opensocial.googleusercontent.com
-74.125.31.132 images1-p9e-opensocial.googleusercontent.com
-74.125.31.132 images2-p9e-opensocial.googleusercontent.com
-74.125.31.132 images3-p9e-opensocial.googleusercontent.com
-74.125.31.132 images4-p9e-opensocial.googleusercontent.com
-74.125.31.132 images5-p9e-opensocial.googleusercontent.com
-74.125.31.132 images6-p9e-opensocial.googleusercontent.com
-74.125.31.132 images-oz-opensocial.googleusercontent.com
-74.125.31.132 images-lso-opensocial.googleusercontent.com
-74.125.31.132 images-pos-opensocial.googleusercontent.com
-74.125.31.132 www-oz-opensocial.googleusercontent.com
-74.125.31.132 www-pwa-opensocial.googleusercontent.com
-74.125.31.132 spreadsheets-opensocial.googleusercontent.com
-74.125.31.132 themes.googleusercontent.com
-74.125.31.132 s6.googleusercontent.com
-74.125.31.132 s5.googleusercontent.com
-74.125.31.132 s4.googleusercontent.com
-74.125.31.132 s3.googleusercontent.com
-74.125.31.132 s2.googleusercontent.com
-74.125.31.132 s1.googleusercontent.com
-74.125.31.132 feedback.googleusercontent.com
 74.125.31.120 www.gstatic.com
 74.125.31.120 ssl.gstatic.com
 74.125.31.120 maps.gstatic.com
@@ -179,11 +143,63 @@
 74.125.31.120 cache3.l.google.com
 74.125.31.120 cache4.l.google.com
 74.125.31.120 cache5.l.google.com
+173.194.38.134 clients1.google.com
+173.194.38.134 clients2.google.com
+173.194.38.134 clients3.google.com
+173.194.38.134 clients4.google.com
+173.194.38.134 clients5.google.com
+173.194.38.134 clients6.google.com
 
 #chrome
 74.125.31.120 chrome.google.com
 #173.194.38.169 chrome.google.com
 #74.125.31.120 clients-china.l.google.com
+
+#Googleusercontent
+#74.125.31.120 lh1.googleusercontent.com
+74.125.31.132 lh1.googleusercontent.com
+74.125.31.132 lh2.googleusercontent.com
+74.125.31.132 lh3.googleusercontent.com
+74.125.31.132 lh4.googleusercontent.com
+74.125.31.132 lh5.googleusercontent.com
+74.125.31.132 lh6.googleusercontent.com
+74.125.31.132 static.googleusercontent.com
+74.125.31.132 images1-focus-opensocial.googleusercontent.com
+74.125.31.132 images2-focus-opensocial.googleusercontent.com
+74.125.31.132 images3-focus-opensocial.googleusercontent.com
+74.125.31.132 images4-focus-opensocial.googleusercontent.com
+74.125.31.132 images5-focus-opensocial.googleusercontent.com
+74.125.31.132 images6-focus-opensocial.googleusercontent.com
+74.125.31.132 images1-esmobile-opensocial.googleusercontent.com
+74.125.31.132 images2-esmobile-opensocial.googleusercontent.com
+74.125.31.132 images3-esmobile-opensocial.googleusercontent.com
+74.125.31.132 images4-esmobile-opensocial.googleusercontent.com
+74.125.31.132 images5-esmobile-opensocial.googleusercontent.com
+74.125.31.132 images6-esmobile-opensocial.googleusercontent.com
+74.125.31.132 images1-p9e-opensocial.googleusercontent.com
+74.125.31.132 images2-p9e-opensocial.googleusercontent.com
+74.125.31.132 images3-p9e-opensocial.googleusercontent.com
+74.125.31.132 images4-p9e-opensocial.googleusercontent.com
+74.125.31.132 images5-p9e-opensocial.googleusercontent.com
+74.125.31.132 images6-p9e-opensocial.googleusercontent.com
+74.125.31.132 images-oz-opensocial.googleusercontent.com
+74.125.31.132 images-lso-opensocial.googleusercontent.com
+74.125.31.132 images-pos-opensocial.googleusercontent.com
+74.125.31.132 www-oz-opensocial.googleusercontent.com
+74.125.31.132 www-pwa-opensocial.googleusercontent.com
+74.125.31.132 spreadsheets-opensocial.googleusercontent.com
+74.125.31.132 themes.googleusercontent.com
+74.125.31.132 s6.googleusercontent.com
+74.125.31.132 s5.googleusercontent.com
+74.125.31.132 s4.googleusercontent.com
+74.125.31.132 s3.googleusercontent.com
+74.125.31.132 s2.googleusercontent.com
+74.125.31.132 s1.googleusercontent.com
+74.125.31.132 feedback.googleusercontent.com
+
+#none
+#74.125.31.120 googlehosted.l.google.com
+#74.125.31.132 googlehosted.l.googleusercontent.com
 
 #twitter
 199.16.156.11 t.co
@@ -233,7 +249,7 @@
 23.10.175.144 si4.twimg.com
 
 #foursquare
-68.232.42.58 api.foursquare.com
+107.21.15.208 api.foursquare.com
 107.23.13.193 foursquare.com
 107.23.13.193 www.foursquare.com
 107.23.124.88 developer.foursquare.com
@@ -417,14 +433,6 @@
 74.125.128.141 wdttapi.appspot.com
 
 #Docs
-##Drive
-173.194.38.134 clients1.google.com
-173.194.38.134 clients2.google.com
-173.194.38.134 clients3.google.com
-173.194.38.134 clients4.google.com
-173.194.38.134 clients5.google.com
-173.194.38.134 clients6.google.com
-##Drive
 74.125.31.120 0.docs.google.com
 74.125.31.120 1.docs.google.com
 74.125.31.120 2.docs.google.com
