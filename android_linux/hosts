@@ -45,7 +45,7 @@
 #74.125.71.101 android.l.google.com
 #74.125.235.3 android-china.l.google.com
 74.125.31.120 chrometophone.appspot.com
-173.194.71.95 www.googleapis.com
+173.194.72.95 www.googleapis.com
 74.125.128.138 appengine.google.com
 74.125.31.120 www.gstatic.com
 74.125.31.120 ssl.gstatic.com
@@ -249,7 +249,7 @@
 23.10.175.144 si4.twimg.com
 
 #foursquare
-107.21.15.208 api.foursquare.com
+107.23.124.88 api.foursquare.com
 107.23.13.193 foursquare.com
 107.23.13.193 www.foursquare.com
 107.23.124.88 developer.foursquare.com
