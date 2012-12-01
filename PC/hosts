@@ -1,4 +1,4 @@
-#WD-HOSTS wd-hosts.googlecode.com
+#WD-HOSTS https://code.google.com/p/wd-hosts/
 #github.com/WooDragon/WDHOSTS
 127.0.0.1 localhost
 ::1 localhost
@@ -57,7 +57,6 @@
 173.194.38.147 id.google.com
 173.194.38.147 google.com
 173.194.38.147 www.google.com.hk
-#173.194.38.147 www.google.com.hk
 173.194.38.147 accounts.youtube.com
 173.194.38.147 plus.google.com
 173.194.38.147 calendar.google.com
@@ -81,6 +80,7 @@
 173.194.38.147 maps.google.com
 173.194.38.147 maps-api-ssl.google.com
 173.194.38.147 images.google.com
+173.194.38.147 feedproxy.google.com
 173.194.38.147 market.android.com
 173.194.38.147 play.google.com
 173.194.38.147 g.co
@@ -248,7 +248,7 @@
 23.10.175.144 si4.twimg.com
 
 #foursquare
-107.21.38.203 api.foursquare.com
+107.21.15.208 api.foursquare.com
 107.23.13.193 foursquare.com
 107.23.13.193 www.foursquare.com
 107.23.124.88 developer.foursquare.com
