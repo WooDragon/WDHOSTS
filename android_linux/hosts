@@ -250,7 +250,7 @@
 23.10.175.144 si4.twimg.com
 
 #foursquare
-107.21.15.208 api.foursquare.com
+141.101.127.161 api.foursquare.com
 107.23.13.193 foursquare.com
 107.23.13.193 www.foursquare.com
 107.23.124.88 developer.foursquare.com
@@ -282,6 +282,18 @@
 216.137.55.31 distilleryimage9.instagram.com
 216.137.55.31 distilleryimage10.instagram.com
 216.137.55.31 distilleryimage11.instagram.com
+176.32.100.68 distilleryimage0.s3.amazonaws.com
+176.32.100.68 distilleryimage1.s3.amazonaws.com
+176.32.100.68 distilleryimage2.s3.amazonaws.com
+176.32.100.68 distilleryimage3.s3.amazonaws.com
+176.32.100.68 distilleryimage4.s3.amazonaws.com
+176.32.100.68 distilleryimage5.s3.amazonaws.com
+176.32.100.68 distilleryimage6.s3.amazonaws.com
+176.32.100.68 distilleryimage7.s3.amazonaws.com
+176.32.100.68 distilleryimage8.s3.amazonaws.com
+176.32.100.68 distilleryimage9.s3.amazonaws.com
+176.32.100.68 distilleryimage10.s3.amazonaws.com
+176.32.100.68 distilleryimage11.s3.amazonaws.com
 
 #whatsapp
 #www.whatsapp.com
