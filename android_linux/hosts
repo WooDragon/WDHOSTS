@@ -133,6 +133,7 @@
 173.194.38.84 khms2.google.com
 173.194.38.84 khms3.google.com
 173.194.38.84 fonts.googleapis.com
+173.194.38.84 maps.googleapis.com
 173.194.38.84 ajax.googleapis.com
 173.194.38.84 khm0.googleapis.com
 173.194.38.84 khm1.googleapis.com
@@ -158,7 +159,6 @@
 #173.194.38.84 clients-china.l.google.com
 
 #Googleusercontent
-#173.194.38.84 lh1.googleusercontent.com
 74.125.31.132 lh1.googleusercontent.com
 74.125.31.132 lh2.googleusercontent.com
 74.125.31.132 lh3.googleusercontent.com
