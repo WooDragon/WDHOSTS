@@ -17,6 +17,7 @@
 173.194.72.125 talk.google.com
 74.125.135.113 talkgadget.google.com
 74.125.135.113 chromoting-oauth.talkgadget.google.com
+74.125.135.113 chromoting-client.talkgadget.google.com
 74.125.128.188 mtalk.google.com
 173.194.38.169 picasaweb.google.com
 74.125.31.82 wd-hosts.googlecode.com
@@ -51,6 +52,7 @@
 ##wifi/cell_id geo API
 173.194.38.84 chrometophone.appspot.com
 74.125.128.138 appengine.google.com
+173.194.38.84 relay.google.com
 173.194.38.84 www.gstatic.com
 173.194.38.84 ssl.gstatic.com
 173.194.38.84 maps.gstatic.com
@@ -141,8 +143,6 @@
 173.194.38.84 khm1.googleapis.com
 173.194.38.84 khm2.googleapis.com
 173.194.38.84 khm3.googleapis.com
-173.194.72.132 mail-attachment.googleusercontent.com
-173.194.72.132 webcache.googleusercontent.com
 173.194.38.84 cache1.l.google.com
 173.194.38.84 cache2.l.google.com
 173.194.38.84 cache3.l.google.com
@@ -168,6 +168,8 @@
 173.194.72.132 lh5.googleusercontent.com
 173.194.72.132 lh6.googleusercontent.com
 173.194.72.132 static.googleusercontent.com
+173.194.72.132 mail-attachment.googleusercontent.com
+173.194.72.132 webcache.googleusercontent.com
 173.194.72.132 images1-focus-opensocial.googleusercontent.com
 173.194.72.132 images2-focus-opensocial.googleusercontent.com
 173.194.72.132 images3-focus-opensocial.googleusercontent.com
@@ -200,6 +202,20 @@
 173.194.72.132 s2.googleusercontent.com
 173.194.72.132 s1.googleusercontent.com
 173.194.72.132 feedback.googleusercontent.com
+#DriveGUC
+173.194.72.132 doc-00-7c-docs.googleusercontent.com
+173.194.72.132 doc-01-7c-docs.googleusercontent.com
+173.194.72.132 doc-02-7c-docs.googleusercontent.com
+173.194.72.132 doc-03-7c-docs.googleusercontent.com
+173.194.72.132 doc-04-7c-docs.googleusercontent.com
+173.194.72.132 doc-05-7c-docs.googleusercontent.com
+173.194.72.132 doc-06-7c-docs.googleusercontent.com
+173.194.72.132 doc-07-7c-docs.googleusercontent.com
+173.194.72.132 doc-08-7c-docs.googleusercontent.com
+173.194.72.132 doc-09-7c-docs.googleusercontent.com
+173.194.72.132 doc-10-7c-docs.googleusercontent.com
+173.194.72.132 doc-0o-7c-docs.googleusercontent.com
+#DriveGUC
 
 #none
 #173.194.38.84 googlehosted.l.google.com
