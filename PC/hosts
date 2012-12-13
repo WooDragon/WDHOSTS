@@ -88,6 +88,7 @@
 173.194.38.84 play.google.com
 173.194.38.84 g.co
 173.194.38.84 plusone.google.com
+173.194.38.84 toolbarqueries.google.com
 173.194.38.84 encrypted-tbn3.google.com
 173.194.38.84 encrypted-tbn2.google.com
 173.194.38.84 encrypted-tbn1.google.com
@@ -158,6 +159,12 @@
 173.194.38.84 chrome.google.com
 #173.194.38.169 chrome.google.com
 #173.194.38.84 clients-china.l.google.com
+173.194.72.132 clients1.googleusercontent.com
+173.194.72.132 clients2.googleusercontent.com
+173.194.72.132 clients3.googleusercontent.com
+173.194.72.132 clients4.googleusercontent.com
+173.194.72.132 clients5.googleusercontent.com
+173.194.72.132 clients6.googleusercontent.com
 
 #Googleusercontent
 173.194.72.132 lh1.googleusercontent.com
