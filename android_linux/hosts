@@ -237,10 +237,12 @@
 
 #twitter
 199.16.156.11 t.co
-#173.83.196.226 t.co
+199.59.148.212 pic.twitter.com
+23.10.175.144 p.twimg.com
+23.10.175.144 pbs.twimg.com
 #199.59.150.7 twitter.com
 #199.59.150.7 www.twitter.com
-219.76.10.162 twimg0-a.akamaihd.net
+#219.76.10.162 twimg0-a.akamaihd.net
 #199.59.150.8 static.twitter.com
 #199.59.150.8 status.twitter.com
 #199.59.150.8 search.twitter.com
@@ -249,38 +251,35 @@
 #199.59.150.8 assets2.twitter.com
 #199.59.150.8 assets3.twitter.com
 #199.59.150.9 api.twitter.com
-199.59.148.212 oauth.twitter.com
-199.59.148.212 pic.twitter.com
-199.59.149.137 dev.twitter.com
-23.10.175.144 cdn.api.twitter.com
-184.169.84.33 failover-cdn.api.twitter.com
-184.169.84.33 failover-urls.api.twitter.com
-184.169.84.33 preview-dev.cdn.twitter.com
-184.169.84.33 preview-stage.cdn.twitter.com
-23.10.175.144 preview.cdn.twitter.com
-184.169.84.33 urls.api.twitter.com
-184.169.84.33 widgets.platform.twitter.com
-184.169.84.33 widgets.twimg.com
-23.10.175.144 platform.twitter.com
-184.169.84.33 platform0.twitter.com
-184.169.84.33 platform1.twitter.com
-184.169.84.33 platform2.twitter.com
-184.169.84.33 platform3.twitter.com
-184.169.84.33 a3.twimg.com
-184.169.84.33 a2.twimg.com
-184.169.84.33 a1.twimg.com
-203.186.47.155 a0.twimg.com
-184.169.84.33 a3.twimg.com
-184.169.84.33 a2.twimg.com
-184.169.84.33 a1.twimg.com
-23.10.175.144 p.twimg.com
-23.10.175.144 pbs.twimg.com
-23.10.175.144 o.twimg.com
-23.10.175.144 si0.twimg.com
-23.10.175.144 si1.twimg.com
-23.10.175.144 si2.twimg.com
-23.10.175.144 si3.twimg.com
-23.10.175.144 si4.twimg.com
+#199.59.148.212 oauth.twitter.com
+#199.59.149.137 dev.twitter.com
+#23.10.175.144 cdn.api.twitter.com
+#184.169.84.33 failover-cdn.api.twitter.com
+#184.169.84.33 failover-urls.api.twitter.com
+#184.169.84.33 preview-dev.cdn.twitter.com
+#184.169.84.33 preview-stage.cdn.twitter.com
+#23.10.175.144 preview.cdn.twitter.com
+#184.169.84.33 urls.api.twitter.com
+#184.169.84.33 widgets.platform.twitter.com
+#184.169.84.33 widgets.twimg.com
+#23.10.175.144 platform.twitter.com
+#184.169.84.33 platform0.twitter.com
+#184.169.84.33 platform1.twitter.com
+#184.169.84.33 platform2.twitter.com
+#184.169.84.33 platform3.twitter.com
+#184.169.84.33 a3.twimg.com
+#184.169.84.33 a2.twimg.com
+#184.169.84.33 a1.twimg.com
+#203.186.47.155 a0.twimg.com
+#184.169.84.33 a3.twimg.com
+#184.169.84.33 a2.twimg.com
+#184.169.84.33 a1.twimg.com
+#23.10.175.144 o.twimg.com
+#23.10.175.144 si0.twimg.com
+#23.10.175.144 si1.twimg.com
+#23.10.175.144 si2.twimg.com
+#23.10.175.144 si3.twimg.com
+#23.10.175.144 si4.twimg.com
 
 #foursquare
 107.23.81.189 api.foursquare.com
@@ -335,9 +334,7 @@
 
 #Flickr Data from smarthosts
 98.136.43.76	geo.yahoo.com
-68.142.196.57	c5.ah.yahoo.com
 124.108.120.124	sa.edit.yahoo.com
-76.13.6.132	row.bc.yahoo.com
 66.163.168.247	open.login.yahoo.com
 209.191.92.114	login.yahoo.com
 209.191.92.115	edit.yahoo.com
@@ -348,6 +345,9 @@
 204.0.5.34	us.js2.yimg.com
 #data from HostsX
 
+76.13.6.132	row.bc.yahoo.com
+119.161.9.151	c5.ah.yahoo.com
+98.136.232.245 c5a.ah.yahoo.com
 203.84.197.26	flickr.com
 203.84.197.26	www.flickr.com
 106.10.137.23	static.flickr.com

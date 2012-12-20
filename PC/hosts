@@ -334,9 +334,7 @@
 
 #Flickr Data from smarthosts
 98.136.43.76	geo.yahoo.com
-68.142.196.57	c5.ah.yahoo.com
 124.108.120.124	sa.edit.yahoo.com
-76.13.6.132	row.bc.yahoo.com
 66.163.168.247	open.login.yahoo.com
 209.191.92.114	login.yahoo.com
 209.191.92.115	edit.yahoo.com
@@ -347,6 +345,9 @@
 204.0.5.34	us.js2.yimg.com
 #data from HostsX
 
+76.13.6.132	row.bc.yahoo.com
+119.161.9.151	c5.ah.yahoo.com
+98.136.232.245 c5a.ah.yahoo.com
 203.84.197.26	flickr.com
 203.84.197.26	www.flickr.com
 106.10.137.23	static.flickr.com
