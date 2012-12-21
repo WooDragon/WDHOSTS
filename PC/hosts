@@ -50,7 +50,6 @@
 ##wifi/cell_id geo API
 173.194.38.84 www.google.com
 ##wifi/cell_id geo API
-173.194.38.84 chrometophone.appspot.com
 74.125.128.138 appengine.google.com
 173.194.38.84 relay.google.com
 173.194.38.84 www.gstatic.com
@@ -471,7 +470,10 @@
 #Facebook
 
 #other
-203.208.46.160 appspot.com
+173.194.72.141 appspot.com
+173.194.72.141 betaspike.appspot.com
+173.194.72.141 chrometophone.appspot.com
+173.194.72.141 lfe-alpo-gm.appspot.com
 69.58.188.34 bit.ly
 50.23.200.239 twitpic.com
 46.4.149.25 img.ly
