@@ -388,6 +388,7 @@
 69.171.227.67 257.channel.facebook.com
 69.63.189.74	www.facebook.com
 23.15.245.56	static.ak.fbcdn.net
+31.13.77.58 sphotos-b.xx.fbcdn.net
 #Data from smarthosts
 69.171.228.25	0.facebook.com
 69.171.239.10	ah8.facebook.com
@@ -482,8 +483,6 @@
 204.154.94.81 www.evernote.com
 208.94.0.61 yfrog.com
 208.94.0.38 desmond.yfrog.com
-220.181.92.25 talk.m.renren.com
-220.181.181.234 api.m.renren.com
 74.125.128.141 wdttapi.appspot.com
 
 #Docs
