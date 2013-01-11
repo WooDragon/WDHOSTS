@@ -44,8 +44,6 @@
 173.194.72.117 upload.docs.google.com
 #GDrive -> #Docs
 
-#74.125.71.101 android.l.google.com
-#74.125.235.3 android-china.l.google.com
 173.194.72.95 www.googleapis.com
 ##wifi/cell_id geo API
 173.194.38.130 www.google.com
@@ -72,7 +70,6 @@
 173.194.38.130 spreadsheets.google.com
 173.194.38.130 adwords.google.com
 173.194.38.130 gg.google.com
-#173.194.38.130 maps.google.com
 173.194.38.130 tools.google.com
 173.194.38.130 dl-ssl.google.com
 173.194.38.130 earth.google.com
@@ -234,6 +231,8 @@
 #none
 #173.194.38.130 googlehosted.l.google.com
 #173.194.38.139 googlehosted.l.googleusercontent.com
+#74.125.71.101 android.l.google.com
+#74.125.235.3 android-china.l.google.com
 
 #twitter
 199.16.156.11 t.co
