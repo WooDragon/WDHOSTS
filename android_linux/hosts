@@ -245,7 +245,7 @@
 23.10.175.144 pbs.twimg.com
 #199.59.150.7 twitter.com
 #199.59.150.7 www.twitter.com
-#219.76.10.162 twimg0-a.akamaihd.net
+203.116.50.51 twimg0-a.akamaihd.net
 #199.59.150.8 static.twitter.com
 #199.59.150.8 status.twitter.com
 #199.59.150.8 search.twitter.com
@@ -477,6 +477,11 @@
 66.220.146.45	www.connect.facebook.com
 66.220.146.61	www.fbplugin.com
 #Facebook
+
+#github
+207.97.227.239 github.com
+207.97.227.243 www.github.com
+107.22.3.110 status.github.com
 
 #other
 173.194.72.141 appspot.com
