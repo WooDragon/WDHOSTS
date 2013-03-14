@@ -82,6 +82,8 @@
 173.194.38.130 feedproxy.google.com
 173.194.38.130 market.android.com
 173.194.38.130 play.google.com
+173.194.38.130 storage.cloud.google.com
+173.194.38.130 sandbox.google.com
 173.194.38.130 g.co
 173.194.38.130 plusone.google.com
 173.194.38.130 toolbarqueries.google.com
@@ -143,6 +145,7 @@
 173.194.38.130 khm1.googleapis.com
 173.194.38.130 khm2.googleapis.com
 173.194.38.130 khm3.googleapis.com
+173.194.38.130 doc-1mc54-09ona-s-googleusercontent.commondatastorage.googleapis.com
 173.194.38.130 cache1.l.google.com
 173.194.38.130 cache2.l.google.com
 173.194.38.130 cache3.l.google.com
@@ -285,7 +288,7 @@
 68.232.44.139 si4.twimg.com
 
 #foursquare
-107.23.81.189 api.foursquare.com
+107.23.98.210 api.foursquare.com
 107.23.13.193 foursquare.com
 107.23.13.193 www.foursquare.com
 107.23.124.88 developer.foursquare.com
@@ -487,6 +490,7 @@
 208.94.0.61 yfrog.com
 208.94.0.38 desmond.yfrog.com
 74.125.128.141 wdttapi.appspot.com
+91.189.92.191 archive.canonical.com
 
 #Docs
 173.194.38.130 0.docs.google.com
