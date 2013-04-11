@@ -4,7 +4,7 @@
 ::1 localhost
 
 #google
-74.125.128.138 android.clients.google.com
+74.125.135.113 android.clients.google.com
 74.125.31.100 mobilemaps.clients.google.com
 74.125.235.136 mobilemaps.clients.google.com
 74.125.31.102 mobilemaps.clients.google.com
@@ -98,14 +98,16 @@
 173.194.38.130 translate.google.com
 173.194.38.130 ssl.google-analytics.com
 
+#ggpht需要用国外IP，避免Android的Play图片加载问题
+173.194.38.139 lh1.ggpht.com
+173.194.38.139 lh2.ggpht.com
+173.194.38.139 lh3.ggpht.com
+173.194.38.139 lh4.ggpht.com
+173.194.38.139 lh5.ggpht.com
+173.194.38.139 lh6.ggpht.com
+
 #beijing
 203.208.37.30 translate.google.cn
-203.208.37.30 lh1.ggpht.com
-203.208.37.30 lh2.ggpht.com
-203.208.37.30 lh3.ggpht.com
-203.208.37.30 lh4.ggpht.com
-203.208.37.30 lh5.ggpht.com
-203.208.37.30 lh6.ggpht.com
 203.208.37.30 goo.gl
 203.208.37.30 dl.google.com
 203.208.37.30 kh.google.com
