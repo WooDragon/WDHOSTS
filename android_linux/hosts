@@ -99,12 +99,12 @@
 173.194.38.130 ssl.google-analytics.com
 
 #ggpht需要用国外IP，避免Android的Play图片加载问题
-173.194.38.139 lh1.ggpht.com
-173.194.38.139 lh2.ggpht.com
-173.194.38.139 lh3.ggpht.com
-173.194.38.139 lh4.ggpht.com
-173.194.38.139 lh5.ggpht.com
-173.194.38.139 lh6.ggpht.com
+173.194.38.140 lh1.ggpht.com
+173.194.38.140 lh2.ggpht.com
+173.194.38.140 lh3.ggpht.com
+173.194.38.140 lh4.ggpht.com
+173.194.38.140 lh5.ggpht.com
+173.194.38.140 lh6.ggpht.com
 
 #beijing
 203.208.37.30 translate.google.cn
@@ -294,7 +294,7 @@
 #23.41.133.210 si4.twimg.com
 
 #foursquare
-107.21.50.0 api.foursquare.com
+107.21.41.114 api.foursquare.com
 107.23.13.193 foursquare.com
 107.23.13.193 www.foursquare.com
 107.23.124.88 developer.foursquare.com
