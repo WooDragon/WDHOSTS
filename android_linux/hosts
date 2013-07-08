@@ -486,6 +486,14 @@
 107.22.3.110 status.github.com
 207.97.227.252 nodeload.github.com
 
+#wikipedia
+91.198.174.225 zh.wikipedia.org
+91.198.174.225 en.wikipedia.org
+91.198.174.225 species.wikipedia.org
+91.198.174.225 commons.wikimedia.org
+91.198.174.225 meta.wikimedia.org
+91.198.174.234 upload.wikimedia.org
+
 #other
 173.194.72.141 appspot.com
 173.194.72.141 betaspike.appspot.com
