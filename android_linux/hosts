@@ -257,11 +257,12 @@
 
 #twitter
 199.16.156.11 t.co
-199.59.148.212 pic.twitter.com
-23.41.133.210 p.twimg.com
-23.41.133.210 pbs.twimg.com
-#199.59.150.7 twitter.com
-#199.59.150.7 www.twitter.com
+199.16.156.9 pic.twitter.com
+23.55.101.210 p.twimg.com
+23.55.101.210 pbs.twimg.com
+199.59.149.232 api.twitter.com
+199.59.150.39 twitter.com
+199.59.150.39 www.twitter.com
 # twimg0-a.akamaihd.net
 #199.59.150.8 static.twitter.com
 #199.59.150.8 status.twitter.com
@@ -270,7 +271,6 @@
 #199.59.150.8 assets1.twitter.com
 #199.59.150.8 assets2.twitter.com
 #199.59.150.8 assets3.twitter.com
-#199.59.150.9 api.twitter.com
 #199.59.148.212 oauth.twitter.com
 #199.59.149.137 dev.twitter.com
 #23.41.133.210 cdn.api.twitter.com
