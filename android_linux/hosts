@@ -4,6 +4,7 @@
 ::1 localhost
 
 #google
+74.125.31.102 android.clients.google.com
 74.125.235.194 android.clients.google.com
 74.125.31.102 mobilemaps.clients.google.com
 74.125.235.192 mobilemaps.clients.google.com
@@ -11,17 +12,17 @@
 74.125.237.102 mobilemaps.clients.google.com
 74.125.128.113 mobilemaps.clients.google.com
 173.194.68.84 accounts.google.com
-173.194.41.118 mail.google.com
-173.194.41.118 gmail.google.com
-173.194.41.118 chatenabled.mail.google.com
+74.125.31.120 mail.google.com
+74.125.31.120 gmail.google.com
+74.125.31.120 chatenabled.mail.google.com
 74.125.31.125 talk.google.com
-74.125.128.139 talkgadget.google.com
-74.125.128.139 chromoting-oauth.talkgadget.google.com
-74.125.128.139 chromoting-client.talkgadget.google.com
+74.125.31.42 talkgadget.google.com
+74.125.31.42 chromoting-oauth.talkgadget.google.com
+74.125.31.42 chromoting-client.talkgadget.google.com
 74.125.31.188 mtalk.google.com
-173.194.35.97 picasaweb.google.com
+74.125.31.100 picasaweb.google.com
 173.194.68.82 wd-hosts.googlecode.com
-173.194.113.99 maps-api-ssl.google.com
+74.125.31.100 maps-api-ssl.google.com
 74.125.128.199 www.google.com.hk
 74.125.128.199 accounts.google.com.hk
 ##G+Sync
@@ -52,9 +53,9 @@
 74.125.31.117 upload.docs.google.com
 #GDrive -> #Docs
 
-173.194.79.108 pop.gmail.com
-173.194.79.108 imap.gmail.com
-173.194.79.108 smtp.gmail.com
+74.125.31.16 pop.gmail.com
+74.125.31.16 imap.gmail.com
+74.125.31.16 smtp.gmail.com
 
 74.125.31.95 www.googleapis.com
 
