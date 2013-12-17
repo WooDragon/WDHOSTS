@@ -11,7 +11,7 @@
 74.125.235.136 mobilemaps.clients.google.com
 74.125.237.102 mobilemaps.clients.google.com
 74.125.128.113 mobilemaps.clients.google.com
-173.194.68.84 accounts.google.com
+74.125.31.84 accounts.google.com
 74.125.31.120 mail.google.com
 74.125.31.120 gmail.google.com
 74.125.31.120 chatenabled.mail.google.com
@@ -351,6 +351,14 @@
 #www.whatsapp.com
 #c.whatsapp.net
 #sro.whatsapp.net
+#mmi102.whatsapp.net
+#whatsapp.net
+#d1.whatsapp.net
+#d2.whatsapp.net
+#d3.whatsapp.net
+#d4.whatsapp.net
+#d5.whatsapp.net
+#d6.whatsapp.net
 
 #Flickr Data from smarthosts
 98.136.43.76	geo.yahoo.com
