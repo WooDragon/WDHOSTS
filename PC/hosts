@@ -20,96 +20,82 @@
 74.125.31.42 chromoting-oauth.talkgadget.google.com
 74.125.31.42 chromoting-client.talkgadget.google.com
 74.125.31.188 mtalk.google.com
-74.125.31.100 picasaweb.google.com
+74.125.128.101 picasaweb.google.com
 173.194.68.82 wd-hosts.googlecode.com
-74.125.31.103 maps-api-ssl.google.com
+74.125.128.101 maps-api-ssl.google.com
 74.125.128.199 www.google.com.hk
 74.125.128.199 accounts.google.com.hk
 ##G+Sync
 74.125.31.193 m.google.com
 74.125.128.193 m.google.com
 74.125.135.193 m.google.com
-74.125.71.193 m.google.com
-209.85.175.193 m.google.com
 #G+Sync
-
 ##wifi/cell_id geo API
-74.125.128.199 www.google.com
+173.194.127.176 www.google.com
 ##wifi/cell_id geo API
 74.125.128.138 appengine.google.com
-
 ##GDrive
 173.194.65.113 drive.google.com
-74.125.235.1 drive.google.com
-74.125.235.132 drive.google.com
-74.125.235.5 drive.google.com
-74.125.235.4 drive.google.com
 173.194.65.113 docs.google.com
-74.125.235.1 docs.google.com
-74.125.235.132 docs.google.com
-74.125.235.5 docs.google.com
-74.125.235.4 docs.google.com
 74.125.31.117 upload.drive.google.com
 74.125.31.117 upload.docs.google.com
 #GDrive -> #Docs
-
 74.125.31.16 pop.gmail.com
-74.125.31.16 imap.gmail.com
+#74.125.31.16 imap.gmail.com
 74.125.31.16 smtp.gmail.com
-
 74.125.31.95 www.googleapis.com
+74.125.31.95 apis.google.com
+74.125.128.101 relay.google.com
+173.194.41.175 www.gstatic.com
+173.194.41.175 ssl.gstatic.com
+173.194.41.175 maps.gstatic.com
+173.194.41.175 csi.gstatic.com
+74.125.128.101 id.google.com
+74.125.128.101 google.com
+74.125.128.101 accounts.youtube.com
+74.125.128.101 plus.google.com
+74.125.128.101 calendar.google.com
+74.125.128.101 profiles.google.com
+74.125.128.101 encrypted.google.com
+74.125.128.101 code.google.com
+74.125.128.101 developers.google.com
+74.125.128.101 video.google.com
+74.125.128.101 cache.pack.google.com
+74.125.128.101 spreadsheets.google.com
+74.125.128.101 adwords.google.com
+74.125.128.101 gg.google.com
+74.125.128.101 tools.google.com
+74.125.128.101 dl-ssl.google.com
+74.125.128.101 earth.google.com
+74.125.128.101 sites.google.com
+74.125.128.101 groups.google.com
+74.125.128.101 support.google.com
+74.125.128.101 maps.google.com
+74.125.128.101 images.google.com
+74.125.128.101 feedproxy.google.com
+74.125.128.101 market.android.com
+74.125.128.101 play.google.com
+74.125.128.101 admin.google.com
+74.125.128.101 storage.cloud.google.com
+74.125.128.101 sandbox.google.com
+74.125.128.101 mapsengine.google.com
+74.125.128.101 g.co
+74.125.128.101 plusone.google.com
+74.125.128.101 toolbarqueries.google.com
+74.125.128.101 encrypted-tbn3.google.com
+74.125.128.101 encrypted-tbn2.google.com
+74.125.128.101 encrypted-tbn1.google.com
+74.125.128.101 encrypted-tbn0.google.com
+74.125.128.101 encrypted-tbn3.gstatic.com
+74.125.128.101 encrypted-tbn2.gstatic.com
+74.125.128.101 encrypted-tbn1.gstatic.com
+74.125.128.101 encrypted-tbn0.gstatic.com
+74.125.128.101 ssl.google-analytics.com
 
-74.125.31.100 relay.google.com
-74.125.31.100 www.gstatic.com
-74.125.31.100 ssl.gstatic.com
-74.125.31.100 maps.gstatic.com
-74.125.31.100 csi.gstatic.com
-74.125.31.100 id.google.com
-74.125.31.100 google.com
-74.125.31.100 accounts.youtube.com
-74.125.31.100 plus.google.com
-74.125.31.100 calendar.google.com
-74.125.31.100 profiles.google.com
-74.125.31.100 encrypted.google.com
-74.125.31.100 code.google.com
-74.125.31.100 developers.google.com
-74.125.31.100 apis.google.com
-74.125.31.100 video.google.com
-74.125.31.100 cache.pack.google.com
-74.125.31.100 spreadsheets.google.com
-74.125.31.100 adwords.google.com
-74.125.31.100 gg.google.com
-74.125.31.100 tools.google.com
-74.125.31.100 dl-ssl.google.com
-74.125.31.100 earth.google.com
-74.125.31.100 sites.google.com
-74.125.31.100 groups.google.com
-74.125.31.100 support.google.com
-74.125.31.100 maps.google.com
-74.125.31.100 images.google.com
-74.125.31.100 feedproxy.google.com
-74.125.31.100 market.android.com
-74.125.31.100 play.google.com
-74.125.31.100 admin.google.com
-74.125.31.100 storage.cloud.google.com
-74.125.31.100 sandbox.google.com
-74.125.31.100 mapsengine.google.com
-74.125.31.100 g.co
-74.125.31.100 plusone.google.com
-74.125.31.100 toolbarqueries.google.com
-74.125.31.100 encrypted-tbn3.google.com
-74.125.31.100 encrypted-tbn2.google.com
-74.125.31.100 encrypted-tbn1.google.com
-74.125.31.100 encrypted-tbn0.google.com
-74.125.31.100 encrypted-tbn3.gstatic.com
-74.125.31.100 encrypted-tbn2.gstatic.com
-74.125.31.100 encrypted-tbn1.gstatic.com
-74.125.31.100 encrypted-tbn0.gstatic.com
-74.125.31.100 translate.google.com
-74.125.31.100 ssl.google-analytics.com
-
+#ggpht use chinese IP will lead to android play images cannot loaded
 #beijing
 203.208.37.30 translate.google.cn
+203.208.46.200 translate.google.com
 203.208.37.30 lh1.ggpht.com
 203.208.37.30 lh2.ggpht.com
 203.208.37.30 lh3.ggpht.com
@@ -122,59 +108,59 @@
 203.208.37.30 0.drive.google.com
 #beijing
 
-74.125.31.100 news.google.com
-74.125.31.100 ditu.google.com
-74.125.31.100 mt0.google.com
-74.125.31.100 mt1.google.com
-74.125.31.100 mt2.google.com
-74.125.31.100 mt3.google.com
-74.125.31.100 mt0.google.cn
-74.125.31.100 mt1.google.cn
-74.125.31.100 mt2.google.cn
-74.125.31.100 mt3.google.cn
-74.125.31.100 mts3.google.com
-74.125.31.100 mts2.google.com
-74.125.31.100 mts1.google.com
-74.125.31.100 mts0.google.com
-74.125.31.100 cbks0.google.com
-74.125.31.100 cbks1.google.com
-74.125.31.100 cbks2.google.com
-74.125.31.100 cbks3.google.com
-74.125.31.100 khms0.google.com
-74.125.31.100 khms1.google.com
-74.125.31.100 khms2.google.com
-74.125.31.100 khms3.google.com
-74.125.31.100 fonts.googleapis.com
-74.125.31.100 maps.googleapis.com
-74.125.31.100 mts3.googleapis.com
-74.125.31.100 mts2.googleapis.com
-74.125.31.100 mts1.googleapis.com
-74.125.31.100 mts0.googleapis.com
-74.125.31.100 ajax.googleapis.com
-74.125.31.100 khm0.googleapis.com
-74.125.31.100 khm1.googleapis.com
-74.125.31.100 khm2.googleapis.com
-74.125.31.100 khm3.googleapis.com
-74.125.31.100 khms0.googleapis.com
-74.125.31.100 khms1.googleapis.com
-74.125.31.100 khms2.googleapis.com
-74.125.31.100 khms3.googleapis.com
-74.125.31.100 doc-1mc54-09ona-s-googleusercontent.commondatastorage.googleapis.com
-74.125.31.100 cache1.l.google.com
-74.125.31.100 cache2.l.google.com
-74.125.31.100 cache3.l.google.com
-74.125.31.100 cache4.l.google.com
-74.125.31.100 cache5.l.google.com
-74.125.31.100 clients1.google.com
-74.125.31.100 clients2.google.com
-74.125.31.100 clients3.google.com
-74.125.31.100 clients4.google.com
-74.125.31.100 clients5.google.com
-74.125.31.100 clients6.google.com
-74.125.31.100 www.googleadservices.com
+74.125.128.101 news.google.com
+74.125.128.101 ditu.google.com
+74.125.128.101 mt0.google.com
+74.125.128.101 mt1.google.com
+74.125.128.101 mt2.google.com
+74.125.128.101 mt3.google.com
+74.125.128.101 mt0.google.cn
+74.125.128.101 mt1.google.cn
+74.125.128.101 mt2.google.cn
+74.125.128.101 mt3.google.cn
+74.125.128.101 mts3.google.com
+74.125.128.101 mts2.google.com
+74.125.128.101 mts1.google.com
+74.125.128.101 mts0.google.com
+74.125.128.101 cbks0.google.com
+74.125.128.101 cbks1.google.com
+74.125.128.101 cbks2.google.com
+74.125.128.101 cbks3.google.com
+74.125.128.101 khms0.google.com
+74.125.128.101 khms1.google.com
+74.125.128.101 khms2.google.com
+74.125.128.101 khms3.google.com
+74.125.31.95 fonts.googleapis.com
+74.125.31.95 maps.googleapis.com
+74.125.31.95 mts3.googleapis.com
+74.125.31.95 mts2.googleapis.com
+74.125.31.95 mts1.googleapis.com
+74.125.31.95 mts0.googleapis.com
+74.125.31.95 ajax.googleapis.com
+74.125.31.95 khm0.googleapis.com
+74.125.31.95 khm1.googleapis.com
+74.125.31.95 khm2.googleapis.com
+74.125.31.95 khm3.googleapis.com
+74.125.31.95 khms0.googleapis.com
+74.125.31.95 khms1.googleapis.com
+74.125.31.95 khms2.googleapis.com
+74.125.31.95 khms3.googleapis.com
+74.125.31.95 doc-1mc54-09ona-s-googleusercontent.commondatastorage.googleapis.com
+74.125.128.101 cache1.l.google.com
+74.125.128.101 cache2.l.google.com
+74.125.128.101 cache3.l.google.com
+74.125.128.101 cache4.l.google.com
+74.125.128.101 cache5.l.google.com
+#74.125.31.100 clients1.google.com
+#74.125.31.100 clients2.google.com
+#74.125.31.100 clients3.google.com
+#74.125.31.100 clients4.google.com
+#74.125.31.100 clients5.google.com
+#74.125.31.100 clients6.google.com
+74.125.128.101 www.googleadservices.com
 
 #chrome
-74.125.31.100 chrome.google.com
+74.125.128.101 chrome.google.com
 #74.125.31.176 chrome.google.com
 #74.125.31.100 clients-china.l.google.com
 74.125.31.132 clients1.googleusercontent.com
@@ -226,6 +212,7 @@
 74.125.31.132 s2.googleusercontent.com
 74.125.31.132 s1.googleusercontent.com
 74.125.31.132 feedback.googleusercontent.com
+
 #DriveGUC
 74.125.31.132 doc-00-7c-docs.googleusercontent.com
 74.125.31.132 doc-01-7c-docs.googleusercontent.com
@@ -256,9 +243,12 @@
 
 #twitter
 199.16.156.11 t.co
-#173.83.196.226 t.co
-#199.59.150.7 twitter.com
-#199.59.150.7 www.twitter.com
+199.16.156.9 pic.twitter.com
+23.55.101.210 p.twimg.com
+23.55.101.210 pbs.twimg.com
+199.59.149.232 api.twitter.com
+199.59.150.39 twitter.com
+199.59.150.39 www.twitter.com
 # twimg0-a.akamaihd.net
 #199.59.150.8 static.twitter.com
 #199.59.150.8 status.twitter.com
@@ -267,44 +257,40 @@
 #199.59.150.8 assets1.twitter.com
 #199.59.150.8 assets2.twitter.com
 #199.59.150.8 assets3.twitter.com
-#199.59.150.9 api.twitter.com
-199.59.148.212 oauth.twitter.com
-199.59.148.212 pic.twitter.com
-199.59.149.137 dev.twitter.com
-23.41.133.210 cdn.api.twitter.com
-184.169.84.33 failover-cdn.api.twitter.com
-184.169.84.33 failover-urls.api.twitter.com
-184.169.84.33 preview-dev.cdn.twitter.com
-184.169.84.33 preview-stage.cdn.twitter.com
-23.41.133.210 preview.cdn.twitter.com
-184.169.84.33 urls.api.twitter.com
-184.169.84.33 widgets.platform.twitter.com
-184.169.84.33 widgets.twimg.com
-118.215.87.144 platform.twitter.com
-184.169.84.33 platform0.twitter.com
-184.169.84.33 platform1.twitter.com
-184.169.84.33 platform2.twitter.com
-184.169.84.33 platform3.twitter.com
-184.169.84.33 a3.twimg.com
-184.169.84.33 a2.twimg.com
-184.169.84.33 a1.twimg.com
-203.186.47.155 a0.twimg.com
-184.169.84.33 a3.twimg.com
-184.169.84.33 a2.twimg.com
-184.169.84.33 a1.twimg.com
-23.41.133.210 p.twimg.com
-23.41.133.210 pbs.twimg.com
-23.41.133.210 o.twimg.com
-23.41.133.210 si0.twimg.com
-23.41.133.210 si1.twimg.com
-23.41.133.210 si2.twimg.com
-23.41.133.210 si3.twimg.com
-23.41.133.210 si4.twimg.com
+#199.59.148.212 oauth.twitter.com
+#199.59.149.137 dev.twitter.com
+#23.41.133.210 cdn.api.twitter.com
+#184.169.84.33 failover-cdn.api.twitter.com
+#184.169.84.33 failover-urls.api.twitter.com
+#184.169.84.33 preview-dev.cdn.twitter.com
+#184.169.84.33 preview-stage.cdn.twitter.com
+#23.41.133.210 preview.cdn.twitter.com
+#184.169.84.33 urls.api.twitter.com
+#184.169.84.33 widgets.platform.twitter.com
+#184.169.84.33 widgets.twimg.com
+#118.215.87.144 platform.twitter.com
+#184.169.84.33 platform0.twitter.com
+#184.169.84.33 platform1.twitter.com
+#184.169.84.33 platform2.twitter.com
+#184.169.84.33 platform3.twitter.com
+#184.169.84.33 a3.twimg.com
+#184.169.84.33 a2.twimg.com
+#184.169.84.33 a1.twimg.com
+#203.186.47.155 a0.twimg.com
+#184.169.84.33 a3.twimg.com
+#184.169.84.33 a2.twimg.com
+#184.169.84.33 a1.twimg.com
+#23.41.133.210 o.twimg.com
+#23.41.133.210 si0.twimg.com
+#23.41.133.210 si1.twimg.com
+#23.41.133.210 si2.twimg.com
+#23.41.133.210 si3.twimg.com
+#23.41.133.210 si4.twimg.com
 
 #foursquare
 199.27.77.196 api.foursquare.com
-54.236.83.123 foursquare.com
-54.236.83.123 www.foursquare.com
+#54.236.83.123 foursquare.com
+#54.236.83.123 www.foursquare.com
 107.23.17.210 developer.foursquare.com
 205.251.212.66 dnv9my2eseobd.cloudfront.net
 
@@ -372,7 +358,6 @@
 76.13.6.132	us.bc.yahoo.com
 204.0.5.34	us.js2.yimg.com
 #data from HostsX
-
 216.252.124.32	row.bc.yahoo.com
 119.161.9.151	c5.ah.yahoo.com
 98.136.232.245 c5a.ah.yahoo.com
@@ -446,7 +431,6 @@
 69.171.227.30	secure-media.fbcdn.net
 69.171.228.25	ssl.facebook.com
 69.171.235.9	static.thefacebook.com
-
 #Data from smarthosts
 69.171.228.25	0.facebook.com
 69.171.239.10	ah8.facebook.com
@@ -492,21 +476,18 @@
 66.220.151.31	vupload.facebook.com
 66.220.146.45	www.connect.facebook.com
 #Facebook
-
 #github
-207.97.227.239 github.com
-207.97.227.243 www.github.com
-107.22.3.110 status.github.com
-207.97.227.252 nodeload.github.com
-
+#207.97.227.239 github.com
+#207.97.227.243 www.github.com
+#107.22.3.110 status.github.com
+#207.97.227.252 nodeload.github.com
 #wikipedia
-91.198.174.225 zh.wikipedia.org
-91.198.174.225 en.wikipedia.org
-91.198.174.225 species.wikipedia.org
-91.198.174.225 commons.wikimedia.org
-91.198.174.225 meta.wikimedia.org
-91.198.174.234 upload.wikimedia.org
-
+198.35.26.96 zh.wikipedia.org
+198.35.26.108 zh.m.wikimedia.org
+198.35.26.112 en.wikipedia.org
+198.35.26.112 species.wikipedia.org
+198.35.26.112 commons.wikimedia.org
+198.35.26.112 upload.wikimedia.org
 #other
 173.194.72.141 appspot.com
 173.194.72.141 betaspike.appspot.com
@@ -521,68 +502,67 @@
 208.94.0.38 desmond.yfrog.com
 74.125.128.141 wdttapi.appspot.com
 91.189.92.191 archive.canonical.com
-
 #Docs
-74.125.31.100 0.docs.google.com
-74.125.31.100 1.docs.google.com
-74.125.31.100 2.docs.google.com
-74.125.31.100 3.docs.google.com
-74.125.31.100 4.docs.google.com
-74.125.31.100 5.docs.google.com
-74.125.31.100 6.docs.google.com
-74.125.31.100 7.docs.google.com
-74.125.31.100 8.docs.google.com
-74.125.31.100 9.docs.google.com
-74.125.31.100 10.docs.google.com
-74.125.31.100 11.docs.google.com
-74.125.31.100 12.docs.google.com
-74.125.31.100 13.docs.google.com
-74.125.31.100 14.docs.google.com
-74.125.31.100 15.docs.google.com
-74.125.31.100 16.docs.google.com
-74.125.31.100 17.docs.google.com
-74.125.31.100 18.docs.google.com
-74.125.31.100 19.docs.google.com
-74.125.31.100 20.docs.google.com
-74.125.31.100 21.docs.google.com
-74.125.31.100 22.docs.google.com
-74.125.31.100 23.docs.google.com
-74.125.31.100 24.docs.google.com
-74.125.31.100 25.docs.google.com
-74.125.31.100 26.docs.google.com
-74.125.31.100 27.docs.google.com
-74.125.31.100 28.docs.google.com
-74.125.31.100 29.docs.google.com
-74.125.31.100 30.docs.google.com
-74.125.31.100 31.docs.google.com
-74.125.31.100 32.docs.google.com
-74.125.31.100 33.docs.google.com
-74.125.31.100 34.docs.google.com
-74.125.31.100 35.docs.google.com
-74.125.31.100 36.docs.google.com
-74.125.31.100 37.docs.google.com
-74.125.31.100 38.docs.google.com
-74.125.31.100 39.docs.google.com
-74.125.31.100 40.docs.google.com
-74.125.31.100 41.docs.google.com
-74.125.31.100 42.docs.google.com
-74.125.31.100 43.docs.google.com
-74.125.31.100 44.docs.google.com
-74.125.31.100 45.docs.google.com
-74.125.31.100 46.docs.google.com
-74.125.31.100 47.docs.google.com
-74.125.31.100 48.docs.google.com
-74.125.31.100 49.docs.google.com
-74.125.31.100 50.docs.google.com
-74.125.31.100 51.docs.google.com
-74.125.31.100 52.docs.google.com
-74.125.31.100 53.docs.google.com
-74.125.31.100 54.docs.google.com
-74.125.31.100 55.docs.google.com
-74.125.31.100 56.docs.google.com
-74.125.31.100 57.docs.google.com
-74.125.31.100 58.docs.google.com
-74.125.31.100 59.docs.google.com
+74.125.128.101 0.docs.google.com
+74.125.128.101 1.docs.google.com
+74.125.128.101 2.docs.google.com
+74.125.128.101 3.docs.google.com
+74.125.128.101 4.docs.google.com
+74.125.128.101 5.docs.google.com
+74.125.128.101 6.docs.google.com
+74.125.128.101 7.docs.google.com
+74.125.128.101 8.docs.google.com
+74.125.128.101 9.docs.google.com
+74.125.128.101 10.docs.google.com
+74.125.128.101 11.docs.google.com
+74.125.128.101 12.docs.google.com
+74.125.128.101 13.docs.google.com
+74.125.128.101 14.docs.google.com
+74.125.128.101 15.docs.google.com
+74.125.128.101 16.docs.google.com
+74.125.128.101 17.docs.google.com
+74.125.128.101 18.docs.google.com
+74.125.128.101 19.docs.google.com
+74.125.128.101 20.docs.google.com
+74.125.128.101 21.docs.google.com
+74.125.128.101 22.docs.google.com
+74.125.128.101 23.docs.google.com
+74.125.128.101 24.docs.google.com
+74.125.128.101 25.docs.google.com
+74.125.128.101 26.docs.google.com
+74.125.128.101 27.docs.google.com
+74.125.128.101 28.docs.google.com
+74.125.128.101 29.docs.google.com
+74.125.128.101 30.docs.google.com
+74.125.128.101 31.docs.google.com
+74.125.128.101 32.docs.google.com
+74.125.128.101 33.docs.google.com
+74.125.128.101 34.docs.google.com
+74.125.128.101 35.docs.google.com
+74.125.128.101 36.docs.google.com
+74.125.128.101 37.docs.google.com
+74.125.128.101 38.docs.google.com
+74.125.128.101 39.docs.google.com
+74.125.128.101 40.docs.google.com
+74.125.128.101 41.docs.google.com
+74.125.128.101 42.docs.google.com
+74.125.128.101 43.docs.google.com
+74.125.128.101 44.docs.google.com
+74.125.128.101 45.docs.google.com
+74.125.128.101 46.docs.google.com
+74.125.128.101 47.docs.google.com
+74.125.128.101 48.docs.google.com
+74.125.128.101 49.docs.google.com
+74.125.128.101 50.docs.google.com
+74.125.128.101 51.docs.google.com
+74.125.128.101 52.docs.google.com
+74.125.128.101 53.docs.google.com
+74.125.128.101 54.docs.google.com
+74.125.128.101 55.docs.google.com
+74.125.128.101 56.docs.google.com
+74.125.128.101 57.docs.google.com
+74.125.128.101 58.docs.google.com
+74.125.128.101 59.docs.google.com
 74.125.31.132 doc-0c-7c-docs.googleusercontent.com
 74.125.31.132 doc-08-7c-docs.googleusercontent.com
 74.125.31.132 doc-00-7o-docs.googleusercontent.com
@@ -593,7 +573,6 @@
 74.125.31.132 doc-10-7o-docs.googleusercontent.com
 74.125.31.132 doc-14-7o-docs.googleusercontent.com
 #Docs
-
 74.125.31.132 desekmmkncsf9nhvc4e90qe7tl9q9s81-a-calendar-opensocial.googleusercontent.com
 74.125.31.132 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
 74.125.31.132 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
@@ -607,12 +586,10 @@
 74.125.31.132 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
 74.125.31.132 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
 74.125.31.132 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
-
 #google music
-74.125.31.100 music.google.com
+74.125.128.101 music.google.com
 74.125.31.132 music-onebox.googleusercontent.com
 74.125.31.132 t.doc-0-0-sj.sj.googleusercontent.com
-
 74.125.31.132 v1.cache1.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 v1.cache2.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 v1.cache3.c.doc-0-0-sj.sj.googleusercontent.com
@@ -654,7 +631,6 @@
 74.125.31.132 v7.cache5.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 v7.cache6.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 v7.cache7.c.doc-0-0-sj.sj.googleusercontent.com
-
 74.125.31.132 v6.lscache8.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 v11.lscache4.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 v20.lscache1.c.doc-0-0-sj.sj.googleusercontent.com
@@ -663,7 +639,6 @@
 74.125.31.132 v20.lscache4.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 v20.lscache5.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 v22.lscache5.c.doc-0-0-sj.sj.googleusercontent.com
-
 74.125.31.132 o-o.preferred.bru02t11.v2.cache8.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 o-o.preferred.bru02t11.v3.cache1.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 o-o.preferred.bru02t11.v3.cache2.c.doc-0-0-sj.sj.googleusercontent.com
@@ -719,14 +694,11 @@
 74.125.31.132 r21.pek01s02.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 r22.pek01s02.c.doc-0-0-sj.sj.googleusercontent.com
 74.125.31.132 r23.pek01s02.c.doc-0-0-sj.sj.googleusercontent.com
-
-74.125.31.100 music-streaming.l.google.com
+74.125.128.101 music-streaming.l.google.com
 74.125.31.132 music.googleusercontent.com
-74.125.31.100 uploadsj.clients.google.com
-74.125.31.100 large-uploads.l.google.com
-
+74.125.128.101 uploadsj.clients.google.com
+74.125.128.101 large-uploads.l.google.com
 #market download address
-
 
 
 
