@@ -11,7 +11,7 @@
 74.125.235.136 mobilemaps.clients.google.com
 74.125.237.102 mobilemaps.clients.google.com
 74.125.128.113 mobilemaps.clients.google.com
-74.125.31.84 accounts.google.com
+74.125.21.84 accounts.google.com
 74.125.31.91 mail.google.com
 74.125.31.91 gmail.google.com
 74.125.31.91 chatenabled.mail.google.com
@@ -31,7 +31,7 @@
 74.125.135.193 m.google.com
 #G+Sync
 ##wifi/cell_id geo API
-173.194.127.176 www.google.com
+74.125.225.179 www.google.com
 ##wifi/cell_id geo API
 74.125.128.138 appengine.google.com
 ##GDrive
