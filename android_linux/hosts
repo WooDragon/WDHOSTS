@@ -3,9 +3,9 @@
 127.0.0.1 localhost
 ::1 localhost
 #google
-74.125.25.102 android.clients.google.com
+74.125.70.102 android.clients.google.com
 74.125.235.194 android.clients.google.com
-74.125.25.102 mobilemaps.clients.google.com
+74.125.70.102 mobilemaps.clients.google.com
 74.125.235.192 mobilemaps.clients.google.com
 64.233.171.84 accounts.google.com
 173.194.123.118 mail.google.com
